@@ -5,7 +5,7 @@
 
 ## Descripción General
 
-Este repositorio pretende realizar un modelo de aprendizaje profundo diseñado para analizar imágenes de radiografías de tórax y predecir el riesgo de eventos cardiovasculares mayores (MACE), como infartos de miocardio. El objetivo principal es clasificar a los pacientes según su probabilidad de mortalidad, generando un resultado binario de supervivencia o fallecimiento. Asimismo, se incorporará Grad-CAM para mejorar la interpretabilidad del modelo, permitiendo una visualización más clara de las características relevantes en las imágenes. Esta identificación temprana de individuos en riesgo tiene como finalidad mejorar y optimizar la toma de decisiones clínicas.
+Este repositorio pretende realizar un modelo de aprendizaje profundo diseñado para analizar imágenes de radiografías de tórax y predecir el riesgo de eventos cardiovasculares mayores (MACE). El objetivo principal es clasificar a los pacientes según su probabilidad de mortalidad, generando un resultado binario de supervivencia o fallecimiento. Asimismo, se incorporará Grad-CAM para mejorar la interpretabilidad del modelo, permitiendo una visualización más clara de las características relevantes en las imágenes. Esta identificación temprana de individuos en riesgo tiene como finalidad mejorar y optimizar la toma de decisiones clínicas.
 
 ## Miembros del equipo
 - Catalina Maya Iregui CC: 1193089503
