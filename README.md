@@ -16,4 +16,4 @@ Este repositorio pretende realizar un modelo de aprendizaje profundo diseñado p
 ## Entregas
 
 Desde este espacio se puede acceder a las distintas entregas:
-- [Primera entrega]
+- [Primera entrega](ENTREGA1.pdf)
